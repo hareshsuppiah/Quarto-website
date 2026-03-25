@@ -1,0 +1,24 @@
+---
+title: "Haresh"
+about:
+  template: marquee
+  image: profile.jpg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+https://quarto.org/docs/websites/website-about.html#templates
+
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.
+
+## Education
+
+Jedi Academy - 2026
+
+## Experience
+
+High Council Member

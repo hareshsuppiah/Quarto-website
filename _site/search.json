@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "posts/Post1.html",
+    "href": "posts/Post1.html",
+    "title": "Post1",
+    "section": "",
+    "text": "First post! Yay!"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "myblog",
+    "section": "",
+    "text": "Post1\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Haresh",
+    "section": "",
+    "text": "https://quarto.org/docs/websites/website-about.html#templates\nFinley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Haresh",
+    "section": "Education",
+    "text": "Education\nJedi Academy - 2026"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Haresh",
+    "section": "Experience",
+    "text": "Experience\nHigh Council Member"
+  }
+]
